@@ -35,7 +35,11 @@ var twoSum = function(nums, target) {
     }
 };
 
+
+
 console.log('twoSum',twoSum([2,7,11,15], 9))
+
+console.log('twoSum',twoSum([12,7,11,2], 9))
 
 // Input: nums = [2,7,11,15], target = 9
 // Output: [0,1]
